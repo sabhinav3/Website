@@ -3,4 +3,4 @@
 
 ## My personal portfolio.
 
-<a href="https://sabhinav.netlify.app"> Click here to view the Website</a>
+<a href="https://sabhinav.netlify.app" target="_blank"> Click here to view the Website</a>
